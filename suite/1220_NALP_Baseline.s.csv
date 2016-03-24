@@ -1,0 +1,5 @@
+"Comments","Tags","TestCase","Key Word","Argument 1","Argument 2"
+,,,"loadSahi","../base/12TwentyKeyword.sah"
+
+,,,"[NALP Reports]","Path of the Excel Data File","Report Name"
+"NALP","Baseline,NALP","NALP Baseline Reports","NALP_Baseline","$path_datafile","$sData_NALP"

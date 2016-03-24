@@ -1,0 +1,7 @@
+"Comments","Tags","TestCase","Key Word","Argument 1","Argument 2"
+,,,"loadSahi","../base/12TwentyKeyword.sah"
+
+,,,"[ABA Reports]","Path of the Excel Data File","Report Name"
+"ABA_Act","Actual,ABA_Act","ABA Actual Reports","ABA_Actual","$path_datafile","$sData_ABA"
+,,,"[Class Status Reports]","Path of the Excel Data File","Report Name"
+"CS_Act","Actual,CS_Act","Class Status Actual Reports","ClassStatus_Actual","$path_datafile","$sData_CS"
